@@ -1,0 +1,30 @@
+https://www.github.com/hecferme/2016-3-AnalisisMultidimensional
+¿normalización?
+- oltp
+- i - d - u
+¿DESnormalización?
+- olap
+- qry
+- atd - dss
+- proceso sustantivo vrs proceso de apoyo
+
+¿dw?
+bd
+2 tipos de tablas
+- fact
+	+ medidas (###) - group by (sql) - sum - count - max - min- avg
+	+ id (fk-v)
+	+ proviene de tablas transaccionales con mucha actividad
+- dimension
+	+ id (pk-v)
+	+ campos descriptivos con cardinalidad (sets) baja
+- drill down / roll up
+- estratificación (medidas)
+
+tarea moral - en grupos
+- cree una tabla llamada FactOrders basada en la tabla de Orders de la base de datos Northwind que contenga los campos de id y de medidas que se conversaron en la clase
+- cree una tabla llamada FactOrderDetails basada en la tabla de OrderDetails de la base de datos Northwind que contenga los campos de id y de medidas que su grupo considere convenientes
+
+
+
+
