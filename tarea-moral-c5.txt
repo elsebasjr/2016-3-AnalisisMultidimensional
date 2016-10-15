@@ -1,0 +1,4 @@
+tarea moral
+agregue la columna de estratificación sobre la antigüedad del empleado y realice el cálculo correspondiente
+agregue los registros correspondientes en la tabla de estratificación para desglosar convenientemente el campo freight de la tabla de fact.
+agregue la columna de estratificación sobre la columna freight de la tabla de fact y realice el cálculo correspondiente
